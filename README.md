@@ -1,5 +1,5 @@
 # Cargar_Recortar_Img
-Cargar y recortar imagenes
+Cargar y recortar imagenes Jcrop v0.9.12-0
 
 ----
 
