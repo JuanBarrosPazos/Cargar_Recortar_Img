@@ -1,0 +1,25 @@
+
+.joculta, .joculta ul, .joculta ul li{
+    display: none !important;
+    visibility: hidden !important;
+    border: 0px 0px 0px 0px !important;
+    border: none !important;
+}
+
+.jver, .jver ul, .jver ul li{
+    display: block !important;
+    visibility: visible !important;
+    border: 1px 1px 1px 1px !important;
+}
+
+.jimg {
+    width: 240px !important;
+    height: auto !important;
+    margin: 0px 12px 0px 12px;
+}
+
+.jimgh {
+    height: 240px !important;
+    width: auto !important;
+    margin: 0px 12px 0px 12px;
+}
